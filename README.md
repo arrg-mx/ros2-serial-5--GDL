@@ -1,4 +1,4 @@
-# ros2-serial-redundante
+# ros2-serial 5GDL
 
 ## Contenido
 
@@ -10,7 +10,7 @@
 
 ## Objetivo
 
-Implementar una interface de control para un robot serial redundante de 5 grados de libertad, la cual permitirá programar tareas de manipulación de objetos mediante planeación de tarea en el espacio de las juntas del robot.
+Implementar una interface de control para un robot serial de 5 grados de libertad, la cual permitirá programar tareas de manipulación de objetos mediante planeación de tarea en el espacio de las juntas del robot.
 
 ## Desarrollo
 
